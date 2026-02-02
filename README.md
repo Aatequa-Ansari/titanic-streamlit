@@ -91,8 +91,6 @@ titanic-streamlit/
 ├── requirements.txt # Project dependencies
 ├── .gitignore
 └── README.md
-
-
 ---
 
 ## 🚀 Running the App Locally
